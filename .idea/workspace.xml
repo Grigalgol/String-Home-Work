@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Five">
+  <component name="RunManager" selected="Application.Six">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five" />
       <module name="String Home Work" />
@@ -40,15 +40,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Six" />
       <module name="String Home Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Three" />
       <module name="String Home Work" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.dop" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
-        <item itemvalue="Application.Two" />
       </list>
     </recent_temporary>
   </component>
